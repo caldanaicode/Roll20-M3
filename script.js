@@ -3,7 +3,7 @@
 */
 var macros = {
     "MacroName1": [ "World Map", "Town Map1" ],
-    "MacroName2": [ "Town Map2 ]
+    "MacroName2": [ "Town Map2" ]
 };
 
 
